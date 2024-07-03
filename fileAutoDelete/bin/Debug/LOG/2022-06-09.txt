@@ -1,0 +1,167 @@
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\VHF\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\VHF\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\VHF\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\VTS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\VTS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\VTS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\RADAR\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\MET\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 3:23:15 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 3:23:15 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 3:23:15 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 3:23:15 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 4:40:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 4:40:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 4:40:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 4:40:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 4:55:22 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 4:55:22 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 4:55:22 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 4:55:22 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 5:03:42 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+2022. 6. 9. 오후 5:03:42 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+2022. 6. 9. 오후 5:03:42 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-03
+2022. 6. 9. 오후 5:03:43 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+2022. 6. 9. 오후 5:05:10 D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-01
+2022. 6. 9. 오후 5:05:10 D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-02
+2022. 6. 9. 오후 5:05:10 D:\업무문서\@@1.BigData\bigdata\RADAR\2022-01-03
+2022. 6. 9. 오후 5:05:11 D:\업무문서\@@1.BigData\bigdata\RADAR\2022-02-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-04
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-05
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-02
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-03
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-04
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-05
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-08
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-03
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-04
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-05
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-02
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-03
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-04
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-05
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-03-08
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VHF\2022-01-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VHF\2022-01-02
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VHF\2022-01-03
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VHF\2022-02-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VTS\2022-01-01
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VTS\2022-01-02
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VTS\2022-01-03
+2022. 6. 9. 오후 5:15:01 D:\업무문서\@@1.BigData\bigdata\VTS\2022-02-01
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-04
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-05
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-02
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-03
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-04
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-05
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-08
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-09
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-03
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-04
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-05
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-02
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-03
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-04
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-05
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-03-08
+2022. 6. 9. 오후 5:30:01 D:\업무문서\@@1.BigData\bigdata\MET\2022-03-09
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-04
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-05
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-02
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-03
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-04
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-05
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-08
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-09
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-01
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-02
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-03
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-04
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-01-05
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-01
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-02
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-03
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-04
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-02-05
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-03-08
+2022. 6. 9. 오후 5:33:00 D:\업무문서\@@1.BigData\bigdata\MET\2022-03-09
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-01
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-02
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-03
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-04
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-01-05
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-01
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-02
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-03
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-04
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-02-05
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-08
+2022. 6. 9. 오후 5:34:20 D:\업무문서\@@1.BigData\bigdata\AIS\2022-03-09
